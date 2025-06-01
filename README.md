@@ -1,5 +1,7 @@
 # Build Your Own Search Engine
 
+![SearchEngines](./imgs/SearchEngines.png)
+
 Code for the "Build Your Own Search Engine" workshop
 
 Video: https://www.youtube.com/watch?v=nMrGK5QgPVE
